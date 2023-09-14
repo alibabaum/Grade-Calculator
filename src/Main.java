@@ -30,6 +30,8 @@ public class Main {
             gradeOutput = "D+!";
         } else if (grade >= 60.0 && grade < 67.0) {
             gradeOutput = "D!";
+        } else if (grade <0) {
+            gradeOutput = "ERROR. Cannot computer negative numbers.";
         } else {
             gradeOutput = "F!";
         }
