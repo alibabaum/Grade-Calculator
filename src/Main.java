@@ -8,7 +8,8 @@ public class Main {
         String gradeOutput;
         System.out.println("Input your grade:");
         double grade = doubleScanner.nextDouble();
-
+        //assigned double just in case someone enters decimals
+        //if, if else... until end in else. Not like C++ exactly
         if (grade >= 92.0){
             gradeOutput= "A!";
         } else if (grade >= 89.0 && grade < 92.0){
