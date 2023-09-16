@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner doubleScanner = new Scanner(System.in);
         String gradeOutput;
-        System.out.println("Input your grade:");
+        System.out.println("Please enter your grade:");
         double grade = doubleScanner.nextDouble();
         //assigned double just in case someone enters decimals
         //if, if else... until end in else. Not like C++ exactly
@@ -31,10 +31,10 @@ public class Main {
         } else if (grade >= 60.0 && grade < 67.0) {
             gradeOutput = "D!";
         } else if (grade <0) {
-            gradeOutput = "ERROR. Cannot computer negative numbers.";
+            gradeOutput = "ERROR. Cannot compute negative numbers.";
         } else {
             gradeOutput = "F!";
         }
-        System.out.println("You have a " + gradeOutput);
+        System.out.println("Your grade is a " + gradeOutput);
     }
 }

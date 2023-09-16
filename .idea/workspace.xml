@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ded7da2-5ece-4f09-956d-8d4dc49c173b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="7ded7da2-5ece-4f09-956d-8d4dc49c173b" name="Changes" comment="Now with error message." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +49,19 @@
       <option name="presentableId" value="Default" />
       <updated>1694649423111</updated>
     </task>
+    <task id="LOCAL-00001" summary="Now with error message.">
+      <option name="closed" value="true" />
+      <created>1694654383453</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694654383453</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Now with error message." />
+    <option name="LAST_COMMIT_MESSAGE" value="Now with error message." />
   </component>
 </project>
